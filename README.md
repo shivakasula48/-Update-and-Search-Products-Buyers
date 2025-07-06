@@ -4,6 +4,16 @@ This project implements **Update and Search functionalities** for managing **Pro
 
 ---
 
+*COMPANY*: Main Flow Services and Technologies Pvt. Ltd. 
+
+*NAME* : shiva kasula
+
+*INTERN ID* : 17203
+
+*DOMAIN* : Full Stack Web Development
+
+*DURATION* : 8WEEKS
+
 ## 📌 Features Implemented
 
 ### ✅ Product Update Functionality
