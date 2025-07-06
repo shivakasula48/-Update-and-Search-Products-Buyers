@@ -39,25 +39,27 @@ This project implements **Update and Search functionalities** for managing **Pro
 
 ---
 
-## 📂 Project Structure
-
+## 📁 Project Structure
 
 ProductCustomer/
 │
 ├── src/
-│ └── com.mycompany.productcustomer/
-│ ├── AdminHome.java
-│ ├── UpdateProduct.java
-│ ├── UpdateCustomer.java
-│ ├── CustomerHome.java
-│ ├── DeleteCustomer.java
-│ ├── LoginForm.java
-│ ├── DatabaseConnection.java
-│ └── ... (other modules)
+│   └── main/
+│       └── java/
+│           └── com/mycompany/productcustomer/
+│               ├── AdminHome.java
+│               ├── UpdateProduct.java
+│               ├── UpdateCustomer.java
+│               ├── CustomerHome.java
+│               ├── DeleteCustomer.java
+│               ├── LoginForm.java
+│               ├── DatabaseConnection.java
+│               └── ... (other modules)
 │
-├── pom.xml
-├── README.md
-└── testdb.sql (MySQL Database Dump)
+├── pom.xml                # Maven configuration file
+├── README.md              # Project documentation
+└── testdb.sql             # MySQL database dump file
+
 
 
 
