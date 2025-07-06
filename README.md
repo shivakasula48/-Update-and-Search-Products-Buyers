@@ -41,8 +41,8 @@ This project implements **Update and Search functionalities** for managing **Pro
 
 ## 📁 Project Structure
 
+<pre>
 ProductCustomer/
-│
 ├── src/
 │   └── main/
 │       └── java/
@@ -55,10 +55,10 @@ ProductCustomer/
 │               ├── LoginForm.java
 │               ├── DatabaseConnection.java
 │               └── ... (other modules)
-│
-├── pom.xml                # Maven configuration file
-├── README.md              # Project documentation
-└── testdb.sql             # MySQL database dump file
+├── pom.xml              # Maven configuration file
+├── README.md            # Project documentation
+└── testdb.sql           # MySQL database dump file
+</pre>
 
 
 
