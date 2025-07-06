@@ -162,19 +162,33 @@ String password = ""; // Use your MySQL password if any
 ## 🖼️ Screenshots
 
 ### 🔐 Login Page
-![Login Page]<img width="598" height="519" alt="Image" src="https://github.com/user-attachments/assets/80bee57b-fdcc-4b50-a6c4-68b8448b1a15" />
+<img width="598" height="519" alt="Image" src="https://github.com/user-attachments/assets/80bee57b-fdcc-4b50-a6c4-68b8448b1a15" />
+
+
+<img width="598" height="479" alt="Image" src="https://github.com/user-attachments/assets/f8e5018b-910f-4dd6-a747-3e36ef24a6ec" />
 
 ---
 
 ### 🧑 Admin - Update Product
-![Admin - Update Product](screenshots/admin-update-product.png)
+
+<img width="641" height="469" alt="Image" src="https://github.com/user-attachments/assets/d7b404b7-91eb-409a-ba3d-e60e554e9658" />
+
+<img width="771" height="668" alt="Image" src="https://github.com/user-attachments/assets/927eedbd-4ede-4873-a160-b317bbd4c74b" />
 
 ---
 
 ### 🔍 Customer - Product Search
-![Customer - Product Search](screenshots/customer-product-search.png)
+
+<img width="564" height="598" alt="Image" src="https://github.com/user-attachments/assets/2d1c5b86-d785-451f-9b09-666331fe24c9" />
+
+<img width="571" height="609" alt="Image" src="https://github.com/user-attachments/assets/dc27af6c-8b2e-4345-b08b-a8b04bfd4e0c" />
 
 
+
+# License
+
+This project is open-source and free to use by anyone for personal or educational purposes.  
+Feel free to modify, distribute, and use the code as long as proper credit is given to the original author, **Kasula Shiva**.
 
 
 
