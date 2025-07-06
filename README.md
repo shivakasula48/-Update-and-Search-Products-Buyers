@@ -159,6 +159,20 @@ String password = ""; // Use your MySQL password if any
 - **Customer Login:**  
 ➤ Can **Search and View** products only
 
+## 🖼️ Screenshots
+
+### 🔐 Login Page
+![Login Page]<img width="598" height="519" alt="Image" src="https://github.com/user-attachments/assets/80bee57b-fdcc-4b50-a6c4-68b8448b1a15" />
+
+---
+
+### 🧑 Admin - Update Product
+![Admin - Update Product](screenshots/admin-update-product.png)
+
+---
+
+### 🔍 Customer - Product Search
+![Customer - Product Search](screenshots/customer-product-search.png)
 
 
 
